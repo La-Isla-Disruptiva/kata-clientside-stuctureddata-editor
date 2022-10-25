@@ -5,13 +5,23 @@
 
 # What is Disruptive Kata?
 
-**Disruptived Kata** is a code kata driven by a product idea.
+**Disruptive Kata** is a code kata driven by real ideas.
+No matter that this idea is great, new or revolutionary. It simply have to be a true and honest idea.
 
-It start from a need or an idea or product that may be more or less interesting or relevant. 
-From then, requirements are written. It is followed by the spexifications and, finally, by its implementation in a more *traditional* code kata form.
+From there, requirements (precision of the problematic) and specification (precise description of the solution) are written. Implementation in a more *traditional* code kata form follows.
 
-For the implementation, we encourage the red-green-refactor TDD methodology.
-But 3 aspects are at the heart of the *disruptive* approach:
-  - katas must take their inspiration in a real problematic
-  - developers are involved in the creation of the solution
-  - a special attention is givne to the communication of ideas and solutions 
+We advocate for the use of industry standards as formats for requirements and specifications.
+We also recommend the use of software architecture diagrams.
+For the implementation, we strongly encourage the *red-green-refactor* TDD methodology.
+
+But to be disruptive, tools and technology is not relevant. 
+Here are 3 basic criterias for a *Disruptive Kata*:
+  - kata inspiration comes from a real problematic,
+  - solution is a creative processe in which developers are involved and
+  - a special attention is given to the communication of ideas:
+    - problematic,
+    - problem,
+    - solution and
+    - implementation.
+
+  We think the harder in a disruptive kata is the expression of the idea that ignate ha kata.
