@@ -21,9 +21,9 @@ De ce point de vue, l'édition de données structurées apparait presque comme u
 
 Ce kata aborde plusieurs aspects élémentaires de toute application:
 
-  - entrée de donnée,
-  - validation
-  - stockage
+  - entrée de données,
+  - validation de données, 
+  - stockage de données
 
 Pourtant, en variant cette application prototype facile, on peut aborder plusieurs sujets intéressants. On pourrait travailler les méthodes de stockages, les architectures de types MVC, rafiner l'interface utilisateur (UI) ou les mécanismes d'interaction (UX).
 
@@ -35,8 +35,8 @@ En fait, ce kata est simplement un interface hummain-machine qui vise à explore
 
 ## Application type
 
-  - L'utilisateur *fournit* un document contenant des données structurées.
-  - Le système *intègre* ce document.
+  - L'utilisateur *fournit* de l'information contenant des données structurées.
+  - Le système *intègre* cette information.
   - Le système *avise* l'utilisateur lorsqu'il ne *comprend* pas le document de l'utilisateur.
   - L'utilisateur peut mettre fin à son interaction avec le système,
     - et lorsque l'utilisateur recontacte le système, celui-ci dispose encore du document.
