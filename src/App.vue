@@ -7,8 +7,8 @@ const saveValue = value => {
 
 <template>
   <div class="container">
-    <div class="starter-template">
-      <h1>App One con Vue</h1>
+    <div class="center-template">
+      <h1>Structure data architecture</h1>
       <Editor/>
       
     </div>
@@ -16,7 +16,7 @@ const saveValue = value => {
 </template>
 
 <style scoped>
-  .starter-template {
+  .center-template {
     padding: 40px 15px;
     text-align: center;
   }
